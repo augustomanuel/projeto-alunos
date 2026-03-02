@@ -1,5 +1,8 @@
-Joao
-Andre
-Augusto
+Lista Ordenada
 
-essa eh a lista
+1. Gusma
+2. Andre
+3. Augusto
+4. Jacinto
+5. Salvador.
+6. Salviano
