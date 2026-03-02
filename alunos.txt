@@ -1,15 +1,7 @@
-Joao
-Andre
-Augusto
+Lista Ordenada
 
-<<<<<<< HEAD
-essa eh a lista
-=======
-essa eh a lista
-
-outra lista adicioal
-
-Jacinto Silva
-Salvador
-Mbota
->>>>>>> f49eeee7ddbd08a12912d8d229cd6d80686e3414
+1. Gusma
+3. Augusto
+4. Jacinto
+5. Salvador.
+6. Salviano
