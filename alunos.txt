@@ -2,4 +2,14 @@ Joao
 Andre
 Augusto
 
+<<<<<<< HEAD
 essa eh a lista
+=======
+essa eh a lista
+
+outra lista adicioal
+
+Jacinto Silva
+Salvador
+Mbota
+>>>>>>> f49eeee7ddbd08a12912d8d229cd6d80686e3414
